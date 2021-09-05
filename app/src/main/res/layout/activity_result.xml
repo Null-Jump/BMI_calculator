@@ -16,7 +16,7 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="BMI : "
+            android:text="@string/bmiIs"
             android:textSize="20sp" />
 
         <TextView
@@ -37,7 +37,7 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="결과는 : "
+            android:text="@string/resultIs"
             android:textSize="20sp" />
 
         <TextView
